@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = "gabriel.horner@gmail.com"
   s.homepage    = "http://github.com/cldwalker/bacon-rr"
   s.summary = "Simple adapter to bring rr to bacon"
-  s.description =  "DESCRIPTION"
+  s.description =  "This extends the bacon testing framework with the ability to use rr."
   s.required_rubygems_version = ">= 1.3.6"
   s.rubyforge_project = 'tagaholic'
   s.add_dependency 'bacon', '>= 1.1.0'
