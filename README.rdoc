@@ -1,0 +1,19 @@
+== Description
+
+This extends the bacon testing framework with the ability to use rr.
+
+== Install
+
+Install the gem with:
+
+    sudo gem install bacon-rr
+
+== Usage
+
+Use in tests with:
+
+    require 'bacon/rr'
+    
+== Bugs/Issues
+
+Please report them {on github}[http://github.com/cldwalker/bacon-rr/issues].
